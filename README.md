@@ -1,3 +1,1 @@
-My first readme
-another readme for 0x01-git
-README update from gitub.com
+My first readme is so amazing
